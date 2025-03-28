@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: #d9d8d8;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
@@ -21,7 +21,7 @@ button {
     font-size: 20px;
     border: none;
     cursor: pointer;
-    background-color: #ce38e9c3;
+    background-color: #f13b3bc3;
     color: white;
     transition: background 0.3s;
     
