@@ -3,3 +3,8 @@ let temp = parseInt(prompt("Enter temperature in Celcius"));
 let far;
 far = (9/5 * temp) + 32;
 alert(far);
+
+function celcius(temp){
+    return (9/5 * temp) + 32;
+}
+celcius(temp);
